@@ -22,7 +22,10 @@ Per questo ho preparato una piccola demo landing dedicata al vostro salone, con 
 
 L'idea è semplice: far percepire immediatamente il livello del salone e rendere più facile il passaggio dalla visita del sito alla richiesta di appuntamento.
 
-Se vi fa piacere, posso inviarvi il link della demo così la guardate senza impegno. Anche solo per capire se un'impostazione di questo tipo potrebbe esservi utile.
+Questa è la demo:
+https://lorenzo-armando-parrucchieri.netlify.app
+
+Se vi fa piacere, potete guardarla senza impegno e dirmi se un'impostazione di questo tipo potrebbe esservi utile.
 
 Un saluto,
 [Il tuo nome]
@@ -34,7 +37,10 @@ sono un freelance web della zona. Ho visto il vostro sito e ho preparato una pic
 
 L'idea è valorizzare meglio immagine, servizi e contatto rapido in una pagina più immediata.
 
-Se vi interessa, ve la mando volentieri senza impegno.
+Demo:
+https://lorenzo-armando-parrucchieri.netlify.app
+
+Se vi interessa, la guardate volentieri senza impegno e mi dite cosa ne pensate.
 
 [Il tuo nome]
 
