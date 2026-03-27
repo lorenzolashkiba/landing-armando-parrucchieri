@@ -1,50 +1,50 @@
-Armando Parrucchieri — email_outreach.txt
+Autofficina Europa — email_outreach.txt
 
 1. Oggetto email
 
-- Professionale: Proposta landing page dedicata per Armando Parrucchieri
-- Diretta: Ho preparato una demo landing per Armando Parrucchieri
-- Calda/personale: Ho pensato a una pagina su misura per valorizzare meglio il vostro salone
+- Professionale: Proposta landing page dedicata per Autofficina Europa
+- Diretta: Ho preparato una demo landing per Autofficina Europa
+- Calda/personale: Ho pensato a una pagina più chiara per presentare meglio la vostra officina
 
 2. Email completa
 
 Buongiorno,
 
-sono un web developer freelance della zona e negli ultimi giorni ho dato un'occhiata alla vostra presenza online.
+sono un web developer freelance della zona e ho visto la vostra presenza online.
 
-Armando Parrucchieri comunica già bene il lato professionale del salone, ma secondo me c'è spazio per una pagina più diretta e orientata alla prenotazione, pensata soprattutto per chi vi scopre per la prima volta e decide in pochi secondi se contattarvi oppure no.
+Autofficina Europa ha un tipo di attività che secondo me beneficerebbe molto di una pagina semplice, concreta e ben fatta, pensata per chi cerca rapidamente un'officina affidabile a Treviso e vuole capire subito cosa fate e come contattarvi.
 
-Per questo ho preparato una piccola demo landing dedicata al vostro salone, con un taglio più moderno, premium e pulito, focalizzato su:
+Per questo ho preparato una demo landing dedicata alla vostra officina, con un'impostazione più diretta e orientata al contatto, focalizzata su:
 
-- impatto visivo iniziale più forte
-- servizi chiari divisi per taglio, colore e styling
-- contatti e prenotazione messi subito in evidenza
+- servizi chiari come tagliando, riparazioni, diagnosi e gomme
+- telefono e richiesta appuntamento messi subito in evidenza
+- immagine più ordinata e professionale anche da mobile
 
-L'idea è semplice: far percepire immediatamente il livello del salone e rendere più facile il passaggio dalla visita del sito alla richiesta di appuntamento.
+L'idea è aiutare chi vi trova online a fidarsi più velocemente e a passare subito alla richiesta di controllo o appuntamento.
 
-Questa è la demo:
-https://lorenzo-armando-parrucchieri.netlify.app
+Se vi fa piacere, posso inviarvi la demo così la guardate senza impegno.
 
-Se vi fa piacere, potete guardarla senza impegno e dirmi se un'impostazione di questo tipo potrebbe esservi utile.
+Demo:
+https://lorenzo-autofficina-europa.netlify.app
 
 Un saluto,
-[Il tuo nome]
+Lorenzo
 
 3. Versione breve
 
 Buongiorno,
-sono un freelance web della zona. Ho visto il vostro sito e ho preparato una piccola demo landing pensata per Armando Parrucchieri, con un taglio più moderno e orientato alla prenotazione.
+sono un freelance web della zona. Ho visto la vostra presenza online e ho preparato una piccola demo landing pensata per Autofficina Europa.
 
-L'idea è valorizzare meglio immagine, servizi e contatto rapido in una pagina più immediata.
+L'obiettivo è rendere più chiari i servizi e più immediato il contatto, soprattutto per chi vi cerca da mobile.
 
 Demo:
-https://lorenzo-armando-parrucchieri.netlify.app
+https://lorenzo-autofficina-europa.netlify.app
 
-Se vi interessa, la guardate volentieri senza impegno e mi dite cosa ne pensate.
+Se vi interessa, datele un'occhiata senza impegno.
 
-[Il tuo nome]
+Lorenzo
 
 4. Nota strategica
 
-- Perché può interessare: un salone come Armando ha bisogno di comunicare qualità percepita e semplicità di contatto. Una landing dedicata può aiutare soprattutto su campagne, social, Google Maps o traffico da mobile.
-- Punto forte da evidenziare: la hero premium con CTA di prenotazione molto visibile e la struttura servizi/recensioni che fa percepire il salone come più curato e contemporaneo.
+- Perché può interessare: un'officina viene scelta spesso in tempi rapidi. Una landing chiara e concreta può aiutare a generare più chiamate e richieste di appuntamento.
+- Punto forte da evidenziare: la hero molto diretta, i servizi leggibili subito e la CTA “Prenota un controllo” pensata per conversione veloce.
